@@ -1,0 +1,13 @@
+DOM (Document Object Model):
+Structured represtation of HTML documents. Allows JavaScript to access HTML elements and styles to manipulated them
+
+DOM is illustrated by TREE Structure
+for each element has only 1 node element started by DOCUMENT object 
+
+entry point: document.querySelector()
+
+DOM !== JavaScript
+
+querySelector is for manipulated html content or style base on html tag, id or class tag
+
+Click Handler event!
